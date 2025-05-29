@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "535824677836",
+    "project_id": "auraapp-3e734",
+    "storage_bucket": "auraapp-3e734.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535824677836:android:28480a3b58aa9f9e3a3b69",
+        "android_client_info": {
+          "package_name": "com.DiegoAragon.corazon2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXkziHVOHfiGMPVQbBy3zMCZjpkQi2jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535824677836:android:c807ae06fba163883a3b69",
+        "android_client_info": {
+          "package_name": "com.example.drmarmotino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXkziHVOHfiGMPVQbBy3zMCZjpkQi2jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
